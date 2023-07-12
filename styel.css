@@ -127,7 +127,7 @@ background: rgba(167, 33, 98, 0.15);
 .ff{
     width: 80%;
     height: 500px;
-    background-image: url('1.png');
+    background-image: url('Rectangle\ 9.png');
     background-repeat: no-repeat;
     margin-left: 80px;
     margin-right: 80px;
@@ -193,6 +193,7 @@ background: #E55473;
 }
 .pic{
     display: flex;
+    text-align: center;
 }
 .p5{
     margin-right: 150px;
